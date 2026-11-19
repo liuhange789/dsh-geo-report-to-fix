@@ -1,6 +1,6 @@
 {
   "name": "@liuhange/dsh-geo-report-to-fix",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "GEO audit to fix pack inside DSH: fetch a URL, score AI-search friendliness (JSON-LD, llms.txt, title/meta/H1), and write a ready-to-paste llms.txt + jsonld.html. GEO 体检与自动修复：输入网址，直接产出修复文件。",
   "keywords": [
     "dsh",
